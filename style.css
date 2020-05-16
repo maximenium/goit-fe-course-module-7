@@ -130,19 +130,19 @@ margin-bottom: 26px;}
   background-size: cover;
   margin-bottom: 32px;}
   .section-ul-li:nth-child(1)::before{
-    background-image: url(../image/basket.png);
+    background-image: url("../goit-fe-course-module-7/image/basket.png")
 }
 
 .section-ul-li:nth-child(2)::before{
-    background-image: url(../image/laptop.png);
+    background-image: url("../goit-fe-course-module-7/image/laptop.png");
 }
 
 .section-ul-li:nth-child(3)::before{
-    background-image: url(../image/lock.png);
+    background-image: url("../goit-fe-course-module-7/image/lock.png");
 }
 .contact{
   background-color: #222222;
-  background-image: url(../image/map.png);
+  background-image: url("../goit-fe-course-module-7/image/Map.png");
   background-repeat: no-repeat;
   background-position: right;
   padding: 110px 0 115px 0;
